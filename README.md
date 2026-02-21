@@ -37,16 +37,20 @@ A collection of additional tools designed for practical browser exploration:
 # HOW TO USE
 
 1. Create a new browser bookmark.
+ <br>
    <div align="center">
-  <img src="images/a.png" height="400">
+  <img src="Images/a.png" height="400">
+  <br>
 2. Paste the KaliGhost WebToolKit script as the bookmark URL.
+
+    javascript:(function(){fetch('?v='+Date.now()).then(r=>r.text()).then(code=>{code=code.replace(/[\uFE0F\u200B\uFEFF]/g,'');var s=document.createElement('script');s.textContent=code;document.documentElement.appendChild(s);}).catch(e=>alert(e));})();
+   
 <div align="center">
-  <img src="images/b.png" height="400">
+  <img src="Images/b.png" height="400">
+   <br>
 3. Open any website and click the bookmarklet to launch the toolkit menu.
+   <br>
 <div align="center">
-  <img src="images/c.png" height="400">
-
-Purpose
-
-Provide a portable set of web inspection and analysis tools that can be executed instantly without installation.
+  <img src="Images/c.png" height="400">
+  <br>
 
