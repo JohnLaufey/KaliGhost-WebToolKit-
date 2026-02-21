@@ -53,7 +53,7 @@ A collection of additional tools designed for practical browser exploration:
 <br>
 <br>
 
-    javascript:(function(){fetch('https://gist.githubusercontent.com/JohnLaufey/41df5799f70271c3076debaa220b8ae0/raw/31968f54cdfbe317a8a6507f4ef7b41e39cefa49/KaliGhost%2520WebToolKit?v='+Date.now()).then(r=>r.text()).then(code=>{code=code.replace(/[\uFE0F\u200B\uFEFF]/g,'');var s=document.createElement('script');s.textContent=code;document.documentElement.appendChild(s);}).catch(e=>alert(e));})();
+    javascript:(function(){fetch('https://gist.githubusercontent.com/JohnLaufey/41df5799f70271c3076debaa220b8ae0/raw/c5592ad6a54ed459d389856373dd74fdf4901301/KaliGhost%2520WebToolKit?v='+Date.now()).then(r=>r.text()).then(code=>{code=code.replace(/[\uFE0F\u200B\uFEFF]/g,'');var s=document.createElement('script');s.textContent=code;document.documentElement.appendChild(s);}).catch(e=>alert(e));})();
    <br>
 <div align="center">
   <img src="Images/b.png" height="400">
@@ -89,6 +89,6 @@ You can try in Google.com as first :P
     <br>
     <br>
     <br>
-™ Here is the 5.936 code lines of project for you to audit:
+™ Here is the source code of project for you to audit:
     <br>
-https://gist.githubusercontent.com/JohnLaufey/41df5799f70271c3076debaa220b8ae0/raw/31968f54cdfbe317a8a6507f4ef7b41e39cefa49/KaliGhost%2520WebToolKit
+https://gist.githubusercontent.com/JohnLaufey/41df5799f70271c3076debaa220b8ae0/raw/c5592ad6a54ed459d389856373dd74fdf4901301/KaliGhost%2520WebToolKit
