@@ -89,6 +89,6 @@ You can try in Google.com as first :P
     <br>
     <br>
     <br>
-™ Here is the project's source code for you to audit:
+™ Here is the 5.930 code lines of project for you to audit:
     <br>
 https://gist.githubusercontent.com/JohnLaufey/41df5799f70271c3076debaa220b8ae0/raw/84114767ef2690af387a8f1fb22715f211f722f7/KaliGhost%2520WebToolKit
