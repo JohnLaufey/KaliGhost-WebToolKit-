@@ -66,7 +66,13 @@ A collection of additional tools designed for practical browser exploration:
   <img src="Images/c.png" height="400">
   <br>
 <br>
-
+  <br>
+  <br>
+You can try in Google.com as first :P
+  <br>
+  <br>
+  <br>
+  
 ### Desktop View
 <br>
 <div align="center">
