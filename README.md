@@ -44,7 +44,7 @@ A collection of additional tools designed for practical browser exploration:
 # HOW TO USE
 
 1. Create a new browser bookmark.
- <br>
+<br>
    <div align="center">
   <img src="Images/a.png" height="400">
   <br>
