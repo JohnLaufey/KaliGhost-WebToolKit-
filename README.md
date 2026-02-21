@@ -53,4 +53,15 @@ A collection of additional tools designed for practical browser exploration:
 <div align="center">
   <img src="Images/c.png" height="400">
   <br>
+<br>
 
+### Desktop View
+<br>
+<div align="center">
+  <img src="Images/2.png" height="400">
+  <br>
+
+  ### Mobile View
+  <br>
+  <div align="center">
+  <img src="Images/1.png" height="400">
