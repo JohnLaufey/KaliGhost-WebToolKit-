@@ -12,7 +12,7 @@ When executed, the bookmarklet injects an interactive menu containing utilities 
 
 ### Console Tools
 
-- terminal
+terminal
 - direct execution of JavaScript commands
 - quick logs and testing on the active page
 - dynamic evaluation of variables and scripts
