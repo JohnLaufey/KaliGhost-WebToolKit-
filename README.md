@@ -1,8 +1,14 @@
-## RKaliGhost WebToolKit
+## KaliGhost WebToolKit
 
 KaliGhost WebToolKit is a JavaScript bookmarklet toolkit that turns the browser into a compact technical toolbox accessible from any webpage.
 
 When executed, the bookmarklet injects an interactive menu containing utilities focused on inspection, data extraction and real-time web interaction.
+
+• multilanguage
+<div align="center">
+  <img src="Images/idiomas.png" height="160">
+  <br>
+
 
 ### Console Tools
 
