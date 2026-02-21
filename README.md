@@ -70,13 +70,13 @@ A collection of additional tools designed for practical browser exploration:
 ### Desktop View
 <br>
 <div align="center">
-  <img src="Images/desktop.png" height="400">
+  <img src="Images/desktop.png" height="1000">
   <br>
 
   ### Mobile View
   <br>
   <div align="center">
-  <img src="Images/mobile.png" height="400">
+  <img src="Images/mobile.png" height="1000">
     <br>
     <br>
     <br>
